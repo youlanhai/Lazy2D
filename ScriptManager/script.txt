@@ -1,0 +1,8 @@
+#这是注释行，脚本文件:script.txt
+#这是注释行
+sampleFunction()
+moveTo(10000.2f,10000.3f)
+moveTo(10000,-100000)
+moveTo(-10000,-100000)
+moveTo(-10000,100000)
+moveTo(0,0)
